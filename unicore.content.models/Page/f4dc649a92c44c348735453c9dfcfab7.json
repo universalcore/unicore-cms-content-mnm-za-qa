@@ -1,0 +1,29 @@
+{
+  "subtitle": "Ghana country page", 
+  "description": "How malaria is affecting the people of Ghana", 
+  "language": "eng_gh", 
+  "title": "Malaria in your country", 
+  "primary_category": null, 
+  "created_at": "2014-12-17T21:32:28.530544+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-17T21:32:28.530787+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Malaria is a dangerous threat in Ghana, so it is important to take precautions and protect yourself and your family from the disease.  Here is how malaria affected Ghana in 2012:\r\n\r\n - **100% of the population of Ghana was living in an at-risk area** where the malaria parasite was present.  \r\n\r\n - It is estimated that **6,900,000 people caught the disease**, and **17,000 died**, just from a simple mosquito bite. \r\n\r\n - Malaria also cost the economy of Ghana **5,700,000,000 Cedi** in lost productivity and treatment costs.\r\n\r\n\r\n\r\n**How you can help**\r\n\r\nIt doesn\u2019t have to be this way.  You can help protect your family, and your country, from malaria by taking a few simple steps:\r\n\r\n - Make sure your whole family sleeps under a bed net every night.\r\n\r\n - Seek testing, and then treatment, from a doctor or health worker at the first sign of illness.\r\n\r\n - If you are given treatment, make sure to finish your pills!\r\n \r\nTo learn more about malaria in your county, visit the [country name] malaria program.\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "malaria-your-country", 
+  "uuid": "f4dc649a92c44c348735453c9dfcfab7"
+}
