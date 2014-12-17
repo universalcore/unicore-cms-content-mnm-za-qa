@@ -6,12 +6,12 @@
   "primary_category": "0d302a1be5c64646a785afcad3943a99", 
   "created_at": "2014-12-10T07:45:09+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-12T17:11:33.287139+00:00", 
+  "modified_at": "2014-12-17T21:00:42.354497+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,9 +20,9 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": null, 
+  "image": "98c801d583594d4297e1d62cd115aed4", 
   "published": null, 
-  "position": 6, 
+  "position": 9, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "how-treat-malaria", 
   "uuid": "230cd6240b774ca4a1cc3ec495115d62"
