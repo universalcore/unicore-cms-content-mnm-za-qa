@@ -1,13 +1,17 @@
 {
+  "uuid": "bee17f952635438bb207f1a4af573c09", 
+  "logo_image_host": "http://qa.thumbor.unicore.io", 
   "locale": "fre_FR", 
   "image": "a7b69b1e9b194c71b6f6e15245a9edfc", 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "logo_text": "malaria ", 
+  "logo_image": "b069b8124e7e466c891a3e4c9ce8fd1d", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "uuid": "bee17f952635438bb207f1a4af573c09"
+  "logo_description": "", 
+  "image_host": "http://qa.thumbor.unicore.io"
 }
